@@ -32,6 +32,5 @@ class Artist
     puts self.all
   end  
   
-  
 end 
   
