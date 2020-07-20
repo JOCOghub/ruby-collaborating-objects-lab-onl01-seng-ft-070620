@@ -3,10 +3,14 @@ class Song
   
   @@all = []
   
-  def initialize(name)#maybe artist too
+  def initialize(name)
     @name = name
     @@all << self
   end  
+  
+  
+  
+  
   
   
 end   
