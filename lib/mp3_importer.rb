@@ -1,1 +1,8 @@
-class 
+class MP3Importer
+  
+  
+  
+  
+  
+  
+end 
